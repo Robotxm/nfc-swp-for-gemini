@@ -21,6 +21,8 @@
 # Configs
 ##########################################################################################
 
+MODID=NFC_SWP_for_gemini
+
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
 AUTOMOUNT=true
