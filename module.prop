@@ -3,5 +3,5 @@ name=Enable NFC SWP for MI 5
 version=1.1
 versionCode=2
 author=Robotxm
-description=Enable NFC SWP for Xiaomi MI 5 so you can use NFC SIM. ONLY FOR MIUI 9.
+description=Enable NFC SWP for Xiaomi MI 5 so you can use NFC SIM.
 template=1400
